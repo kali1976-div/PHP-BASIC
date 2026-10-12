@@ -1,5 +1,5 @@
 <?php
-//Now we will study operators
+//Now we will study operator
 /*
  1 : ==  only know if value is true
  2 : ===  when value and type both are true
